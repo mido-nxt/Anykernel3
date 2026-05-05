@@ -412,7 +412,7 @@ if [ -f version ]; then
 fi;
 ui_print "=====================================";
 ui_print "|  Kernel         : Mi-Titanium-v2  |";
-ui_print "|  Device         : Vince           |";
+ui_print "|  Device         : Mi8953          |";
 ui_print "|  Linux version  : 4.19.325        |";
 ui_print "|  Maintainer     : RenzAlt         |";
 ui_print "|===================================|";
