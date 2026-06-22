@@ -411,10 +411,10 @@ if [ -f version ]; then
   ui_print " ";
 fi;
 ui_print "=====================================";
-ui_print "|  Kernel         : Mi-Titanium-v2  |";
+ui_print "|  Kernel         : Mika            |";
 ui_print "|  Device         : Mi8953          |";
-ui_print "|  Linux version  : 4.19.325        |";
-ui_print "|  Maintainer     : RenzAlt         |";
+ui_print "|  Linux version  : 4.9.337         |";
+ui_print "|  Maintainer     : AmeMika         |";
 ui_print "|===================================|";
 ui_print "|      AnyKernel3 by osm0sis        |";
 ui_print "=====================================";
