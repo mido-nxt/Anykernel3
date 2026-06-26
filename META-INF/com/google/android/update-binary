@@ -411,7 +411,7 @@ if [ -f version ]; then
   ui_print " ";
 fi;
 ui_print "=====================================";
-ui_print "|  Kernel         : Mika            |";
+ui_print "|  Kernel         : Kaite-愛して     |";
 ui_print "|  Device         : Mi8953          |";
 ui_print "|  Linux version  : 4.9.337         |";
 ui_print "|  Maintainer     : AmeMika         |";
