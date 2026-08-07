@@ -411,7 +411,7 @@ if [ -f version ]; then
   ui_print " ";
 fi;
 ui_print "=====================================";
-ui_print "|  Kernel         : Mi-Titanium-v2  |";
+ui_print "|  Kernel         : HYPER KERNEL    |";
 ui_print "|  Device         : Mi8953          |";
 ui_print "|  Linux version  : 4.19.325        |";
 ui_print "|  Maintainer     : NRanjan-17      |";
@@ -445,3 +445,4 @@ fi;
 
 ui_print " - Done!";
 ui_print " - Congratulations, your device is broken ";
+ui_print " - Getting, HYPED ";
